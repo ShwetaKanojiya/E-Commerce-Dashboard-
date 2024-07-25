@@ -1,5 +1,5 @@
 # E-Commerce-Sales-Dashboard-Using-Power-BI
-Creating Interactive Dashboard of E-Commerce Store
+Analyzed an Ecommerce Sales data, created an interactive dashboard using Power BI
 
 ## **Project Objective**
 
@@ -10,17 +10,6 @@ The owner of the **E-Commerce Store** wants us to create an <a href="https://git
 
 - <a href="https://github.com/ShwetaKanojiya/E-Commerce-Dashboard-/blob/main/Details.csv">Details</a>
 - <a href="https://github.com/ShwetaKanojiya/E-Commerce-Dashboard-/blob/main/Orders.csv">Orders</a>
-
-
-## **Questions (KPIs)**
-
-- Compare the sum of the amounts with different states.
-- Which person spent the maximum amount of money to buy products?
-- Which category of product customer orders the most (Clothing, Electronics and Furniture)?
-- What kind of payment mode customer uses the most while purchasing products?
-- Which months of the year Store generate the maximum profit and minimum profit?
-- Which sub-category of the product customer orders the most and contibutes gaining maximum profits to Store?
-
 
 ## **Process**
 
@@ -34,6 +23,3 @@ The owner of the **E-Commerce Store** wants us to create an <a href="https://git
 ![Alt text of the image](https://github.com/ShwetaKanojiya/E-Commerce-Dashboard-/blob/main/SalesDashboard.PNG)
 
 
-## **Conclusion**
-
-The customers living in Maharashtra, Madhya Pradesh and Uttar Pradesh purchase the most of the products such as Clothing, Electronics and Furnitures. To improve sales of the **E-Commerce Store**, the owner must show maximum ads, sale offers/coupons in the months from January to April and December.
