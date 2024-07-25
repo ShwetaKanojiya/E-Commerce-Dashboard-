@@ -3,7 +3,7 @@ Creating Interactive Dashboard of E-Commerce Store
 
 ## **Project Objective**
 
-The owner of the **E-Commerce Store** wants us to create an <a href="">interactive dashboard</a> to track and analyze their online sales across India.
+The owner of the **E-Commerce Store** wants us to create an <a href="https://github.com/ShwetaKanojiya/E-Commerce-Dashboard-/blob/main/SalesDashboard.PNG">interactive dashboard</a> to track and analyze their online sales across India.
 
 
 ## **Dataset used**
